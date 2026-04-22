@@ -2,7 +2,7 @@
 ---
  
 ## 全网最便宜机场推荐
-### [https://github.com/tprc1949/cheap-vpn-recommendation](https://github.com/tprc1949/cheap-vpn-recommendation)
+### [https://github.com/zzmy1917-svg/cheap-vpn-airport](https://github.com/zzmy1917-svg/cheap-vpn-airport)
 ### [https://jc.zzmy.dpdns.org/](https://jc.zzmy.dpdns.org/)
 ---
 # zy-player_18-resource 
