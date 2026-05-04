@@ -5,7 +5,8 @@
 ### [https://github.com/zzmy1917-svg/cheap-vpn-airport](https://github.com/zzmy1917-svg/cheap-vpn-airport)
 ### [https://jc.zzmy.dpdns.org/](https://jc.zzmy.dpdns.org/)
 ---
-# zy-player_18-resource 
+# zyplayer_18-resource
+# uzPlayer_18-resource
 
 ## 18-resource
 
